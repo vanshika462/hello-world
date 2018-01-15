@@ -1,2 +1,2 @@
 # hello-world
-beginning
+It is the beginning of a new journey!
